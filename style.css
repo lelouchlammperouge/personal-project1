@@ -1,0 +1,25 @@
+body {
+    width: 400px;
+    padding: 25px 100px;
+    margin: 25px auto;
+    text-align: center;
+    border-radius: 25px;
+  }
+
+.active {
+    border: 2px solid red;
+}
+
+button {
+    padding: 5px 15px;
+    cursor: pointer;
+  }
+
+html {
+    background: url("img/design-space-paper-textured-background_53876-42312.webp") no-repeat fixed center;
+    background-size: cover;
+}
+
+
+
+  
